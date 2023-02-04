@@ -1,0 +1,20 @@
+# Format Style Options - Created with Clang Power Tools
+---
+AlignAfterOpenBracket: DontAlign
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignEscapedNewlines: DontAlign
+BasedOnStyle: Google
+ColumnLimit: 500
+ContinuationIndentWidth: 2
+SortIncludes: false
+SpaceAfterCStyleCast: true
+SpaceBeforeParens: Always
+SpaceInEmptyParentheses: true
+SpacesBeforeTrailingComments: 1
+SpacesInCStyleCastParentheses: true
+SpacesInConditionalStatement: true
+SpacesInParentheses: true
+TabWidth: 4
+UseTab: ForIndentation
+...

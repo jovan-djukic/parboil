@@ -1,0 +1,7 @@
+/datasets
+**/build/
+**/run/
+**/tools/
+/results
+/deviceQuery/
+/driver/
